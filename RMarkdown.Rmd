@@ -7,5 +7,5 @@ output: html_document
 This is my first RMardown file tracked by Git!!!
 
 ```{r}
-"this is code"
+"this is code, en nu nog meer"
 ```
