@@ -5,3 +5,7 @@ date: '2022-04-22'
 output: html_document
 ---
 This is my first RMardown file tracked by Git!!!
+
+```{r}
+"this is code"
+```
