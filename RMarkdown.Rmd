@@ -9,3 +9,5 @@ This is my first RMardown file tracked by Git!!!
 ```{r}
 "this is code, en nu nog meer"
 ```
+
+Deze text is in les 4 toegevoegd :D
